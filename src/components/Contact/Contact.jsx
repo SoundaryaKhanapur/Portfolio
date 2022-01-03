@@ -60,9 +60,9 @@ const Contact = () => {
                     <img src={medium} alt="social" />
                 </a> */}
 
-                {/* <a href="https://twitter.com/smk_codes" className="social-icon">
+                <a href="https://twitter.com/smk_codes" className="social-icon">
                     <img src={twitter} alt="social" />
-                </a> */}
+                </a>
             </div>
 
             <FooterLink phrase="Read more " link="about me." toAddress="/about" />

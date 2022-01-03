@@ -37,7 +37,7 @@ export const projectsData = [
             'As a developer/designer, you should definitely have your own portfolio website. There are endless benefits. But, a lot of people feel that it would be tough to make one. So here I bring you a tutorial to make your own website.',
         imageUrl: 'https://user-images.githubusercontent.com/36791174/124378271-2eb63980-dcce-11eb-90c0-839144cd0781.PNG',
 
-        projectUrl: 'https://soundaryakhanapur.github.io/portfolio/',
+        projectUrl: 'https://soundaryakhanapur.github.io/Portfolio/#/',
     },
     {
         projectName: 'spaceX mission 2030',
@@ -45,6 +45,6 @@ export const projectsData = [
             'A fun, cool web space game which I developed during my initial coding days. Focused on JavaScript, HTML5 and a lot of CSS.',
         imageUrl: 'https://user-images.githubusercontent.com/36791174/124378975-10ead380-dcd2-11eb-953e-867da3a1eb08.PNG',
 
-        projectUrl: 'https://soundaryakhanapur.github.io/portfolio/',
+        projectUrl: 'https://soundaryakhanapur.github.io/spaceX-mission-2030-web-game/',
     },
 ];
