@@ -7,7 +7,7 @@ import github from './../../assets/gh.png'
 import linkedin from './../../assets/li.png'
 import instagram from './../../assets/in.png'
 import medium from './../../assets/me.png'
-import twitter from './../../assets/twitter.jpg'
+import twitter from './../../assets/twitter.png'
 
 const Contact = () => {
     return (
