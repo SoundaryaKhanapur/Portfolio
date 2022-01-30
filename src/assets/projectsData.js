@@ -34,7 +34,7 @@ export const projectsData = [
     {
         projectName: 'Portfolio Website',
         projectDescription:
-            'As a developer/designer, you should definitely have your own portfolio website. There are endless benefits. But, a lot of people feel that it would be tough to make one. So here I bring you a tutorial to make your own website.',
+            'As a developer/designer, you should definitely have your own portfolio website. So here is mine.',
         imageUrl: 'https://user-images.githubusercontent.com/36791174/124378271-2eb63980-dcce-11eb-90c0-839144cd0781.PNG',
 
         projectUrl: 'https://soundaryakhanapur.github.io/Portfolio/#/',

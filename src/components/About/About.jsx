@@ -23,13 +23,13 @@ const About = () => {
 
                     {/* Sub section 2*/}
                     <h3 className="about-sub-head">Content Creator</h3>
-                    <p className="about-details">I am a Content Creator with family of 5k+ on Instagram where I share my journey as a Developer{' '}
+                    <p className="about-details">I am a Content Creator with followers of 6k+ on Instagram where I share my journey as a Developer{' '}
                         <a href="https://instagram.com/smk.codes/" className="about-link-element" target="_blank" rel="noreferrer">smk.codes</a>
                     </p>
 
                     {/* Sub section 3*/}
                     <h3 className="about-sub-head">Apart from Tech</h3>
-                    <p className="about-details">In my leisure time you can find me doing sports, creating content, reading or developing fun (kinda usless) software programs.{' '}
+                    <p className="about-details">In my leisure time you can find me doing sports, creating content, reading or developing fun (kinda useless) software programs.{' '}
                         {/* <a href="https://" className="about-link-element">linkhere</a> */}
                     </p>
 
