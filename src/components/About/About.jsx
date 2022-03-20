@@ -23,7 +23,7 @@ const About = () => {
 
                     {/* Sub section 2*/}
                     <h3 className="about-sub-head">Content Creator</h3>
-                    <p className="about-details">I am a Content Creator with followers of 6k+ on Instagram where I share my journey as a Developer{' '}
+                    <p className="about-details">I am a Content Creator with followers of 10k+ on Instagram where I share my journey as a Developer{' '}
                         <a href="https://instagram.com/smk.codes/" className="about-link-element" target="_blank" rel="noreferrer">smk.codes</a>
                     </p>
 
