@@ -17,7 +17,7 @@ const About = () => {
                 <div className="about-main-left">
                     {/* Sub section 1*/}
                     <h3 className="about-sub-head">Women In TECH</h3>
-                    <p className="about-details">Hello World, I am a Computer Science Engineer graduated with a bronze medal. I am a passionate developer and work as Mercedes Benz Research & Development India.{' '}
+                    <p className="about-details">Hello World, I am a Computer Science Engineer graduated with a bronze medal. I am a passionate developer and work at Mercedes Benz Research & Development.{' '}
                         {/* <a href="https://" className="about-link-element">linkhere</a> */}
                     </p>
 
