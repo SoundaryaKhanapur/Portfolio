@@ -6,7 +6,7 @@ import contactVector from './../../assets/contact_anime.png'
 import github from './../../assets/gh.png'
 import linkedin from './../../assets/li.png'
 import instagram from './../../assets/in.png'
-import medium from './../../assets/me.png'
+import youtube from './../../assets/youtube.png'
 import twitter from './../../assets/twitter.png'
 
 const Contact = () => {
@@ -56,9 +56,9 @@ const Contact = () => {
                     <img src={instagram} alt="social" />
                 </a>
 
-                {/* <a href="https://github.com/SoundaryaKhanapur" className="social-icon">
-                    <img src={medium} alt="social" />
-                </a> */}
+                <a href="https://www.youtube.com/channel/UC7opD0zJrLppPXo3-6tDF5w" className="social-icon">
+                    <img src={youtube} alt="social" />
+                </a>
 
                 <a href="https://twitter.com/smk_codes" className="social-icon">
                     <img src={twitter} alt="social" />
