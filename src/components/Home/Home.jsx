@@ -5,22 +5,22 @@ import homeAnime from './../../assets/home_anime.jpg'
 import './Home.css'
 
 class Home extends Component {
-    state = { showModal: false };
+    // state = { showModal: false };
 
-    componentDidMount() {
-        setTimeout(() => {
-            this.setState({ showModal: true })
-        }, 2000)
-    }
+    // componentDidMount() {
+    //     setTimeout(() => {
+    //         this.setState({ showModal: true })
+    //     }, 2000)
+    // }
 
-    closeModal = () => {
-        this.setState({ showModal: false })
-    }
+    // closeModal = () => {
+    //     this.setState({ showModal: false })
+    // }
 
     render() {
         return (
             <div className="home-containe">
-                {this.state.showModal && <Modal closeModal={this.closeModal} />}
+                {/* {this.state.showModal && <Modal closeModal={this.closeModal} />} */}
                 <div className="header-text">
                     <h1>Welcome to my Portfolio!</h1>
                     <p>I'm Soundarya, a full stack dev and content creator.</p>
