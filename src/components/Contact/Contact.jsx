@@ -56,7 +56,7 @@ const Contact = () => {
                     <img src={instagram} alt="social" />
                 </a>
 
-                <a href="https://www.youtube.com/channel/UC7opD0zJrLppPXo3-6tDF5w" className="social-icon">
+                <a href="https://www.youtube.com/channel/" className="social-icon">
                     <img src={youtube} alt="social" />
                 </a>
 
